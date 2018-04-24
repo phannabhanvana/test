@@ -1,0 +1,7 @@
+box: ubuntu
+
+build:
+  steps:
+    - script:
+      code: |
+      echo "hello"
